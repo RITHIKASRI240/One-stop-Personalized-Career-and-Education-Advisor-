@@ -1,6 +1,5 @@
-One-Stop Personalized Career and Education Advisor**
+PROJECT TITLE: ONE-STOP PERSONALIZED CAREER AND EDUCATION ADVISOR
 
-Problem statement 
-
-Many students struggle to choose the right career and educational path due to a lack of proper guidance, awareness of career opportunities, and understanding of their skills and interests. As a result, they often make uninformed decisions that may not align with their goals and abilities. Existing career guidance information is scattered across different sources, making it difficult for students to access reliable and personalized recommendations. Therefore, there is a need for a centralized platform that provides personalized career advice, educational recommendations, skill development guidance, and learning resources to help students make informed decisions about their future.
+ PROBLEM STATEMENT:
+            Many students and learners face difficulty in choosing the right career path and educational opportunities due to lack of proper guidance and centralized information. This project aims to develop a system that provides personalized career and education recommendations based on user interests skills and academic background.
 
