@@ -79,3 +79,6 @@ Modules:
 | Careers | Career_ID (PK), Career_Name, Description, Required_Skills | Contains career information. |
 | Courses | Course_ID (PK), Course_Name, Institution, Duration | Stores course details. |
 | Recommendations | Recommendation_ID (PK), User_ID (FK), Career_ID (FK), Course_ID (FK) | Stores personalized recommendations. |
+## ER Diagram
+
+![ER Diagram](file_00000000725072088862bd3e4bb61521.png)
