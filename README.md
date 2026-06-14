@@ -70,3 +70,12 @@ Modules:
 ## Use Case Diagram
 
 ![Use Case Diagram](file_000000004d2c7208b85f6b9105f9cbc3.png)
+## Database Requirement Analysis
+
+| Table Name | Attributes | Description |
+|------------|------------|-------------|
+| Users | User_ID (PK), Name, Email, Password, Role | Stores user account information. |
+| User_Profile | Profile_ID (PK), User_ID (FK), Qualification, Skills, Interests, Career_Goals | Stores user details and career goals. |
+| Careers | Career_ID (PK), Career_Name, Description, Required_Skills | Contains career information. |
+| Courses | Course_ID (PK), Course_Name, Institution, Duration | Stores course details. |
+| Recommendations | Recommendation_ID (PK), User_ID (FK), Career_ID (FK), Course_ID (FK) | Stores personalized recommendations. |
