@@ -82,3 +82,15 @@ Modules:
 ## ER Diagram
 
 ![ER Diagram](file_00000000725072088862bd3e4bb61521.png)
+## Data Schema Creation
+
+| Table Name | Field Name | Data Type | Key |
+|------------|------------|-----------|-----|
+| Users | User_ID | INT | PK |
+| Users | Name | VARCHAR(100) | - |
+| Users | Email | VARCHAR(100) | - |
+| User_Profile | Profile_ID | INT | PK |
+| User_Profile | User_ID | INT | FK |
+| Careers | Career_ID | INT | PK |
+| Courses | Course_ID | INT | PK |
+| Recommendations | Recommendation_ID | INT | PK |
