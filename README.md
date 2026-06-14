@@ -67,3 +67,6 @@ Modules:
 
 6. Admin Module
    - Manage users, careers, and educational data
+## Use Case Diagram
+
+![Use Case Diagram](file_000000004d2c7208b85f6b9105f9cbc3.png)
