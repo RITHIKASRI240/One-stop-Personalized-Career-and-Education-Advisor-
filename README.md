@@ -94,3 +94,6 @@ Modules:
 | Careers | Career_ID | INT | PK |
 | Courses | Course_ID | INT | PK |
 | Recommendations | Recommendation_ID | INT | PK |
+## UI Wireframe Design
+
+![UI Wireframe Design](file_0000000077887208903c56a48a2309d9.png)
