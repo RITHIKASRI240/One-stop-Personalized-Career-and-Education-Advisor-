@@ -30,3 +30,7 @@ Non-Functional Requirements:
 Outcome:
 The gathered requirements ensure that the system provides personalized career and educational guidance, helping users make informed decisions about their future.
 
+
+OBJECTIVE DEFINITION
+
+The objective of the One-Stop Personalized Career and Education Advisor is to provide users with personalized career guidance and educational recommendations based on their interests, skills, qualifications, and goals. The system aims to assist students and job seekers in making informed career decisions, identifying skill gaps, exploring suitable educational opportunities, and planning their professional growth effectively.
