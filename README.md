@@ -34,3 +34,36 @@ The gathered requirements ensure that the system provides personalized career an
 OBJECTIVE DEFINITION
 
 The objective of the One-Stop Personalized Career and Education Advisor is to provide users with personalized career guidance and educational recommendations based on their interests, skills, qualifications, and goals. The system aims to assist students and job seekers in making informed career decisions, identifying skill gaps, exploring suitable educational opportunities, and planning their professional growth effectively.
+
+USER AND MODULE IDENTIFICATION
+
+Users:
+1. Student/Job Seeker
+   - Create and manage profile
+   - Receive career recommendations
+   - Explore educational opportunities
+   - View skill development suggestions
+
+2. Administrator
+   - Manage users and system data
+   - Update career and course information
+   - Monitor system activities
+
+Modules:
+1. User Authentication Module
+   - Registration and login functionality
+
+2. User Profile Module
+   - Manage personal, educational, and skill details
+
+3. Career Recommendation Module
+   - Suggest suitable career paths based on user data
+
+4. Education Guidance Module
+   - Recommend courses, certifications, and institutions
+
+5. Skill Gap Analysis Module
+   - Identify missing skills and suggest improvements
+
+6. Admin Module
+   - Manage users, careers, and educational data
