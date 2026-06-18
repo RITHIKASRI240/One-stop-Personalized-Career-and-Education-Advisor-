@@ -102,3 +102,10 @@ CREATE TABLE skills (
     career_id INT,
     FOREIGN KEY (career_id) REFERENCES careers(career_id)
 );
+CREATE TABLE learning_resources (
+    resource_id INT PRIMARY KEY,
+    resource_name VARCHAR(100),
+    resource_type VARCHAR(50),
+    skill_id INT,
+    FOREIGN KEY (skill_id) REFERENCES skills(skill_id)
+);
