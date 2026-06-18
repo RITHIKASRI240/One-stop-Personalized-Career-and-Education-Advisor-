@@ -221,3 +221,36 @@ The Registration Page was developed using HTML and CSS to allow new users to cre
 # OUTPUT
 
 Dashboard Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
+## DASHBOARD DEVELOPMENT
+
+The Dashboard Page was developed to provide users with a centralized view of career recommendations, educational guidance, skill development suggestions, and learning resources. The dashboard is designed to enhance user experience through easy navigation and organized information display.
+
+---
+
+## DASHBOARD WIREFRAME
+
++--------------------------------------------------+
+|                   DASHBOARD                      |
++--------------------------------------------------+
+| Welcome, User!                                   |
++--------------------------------------------------+
+| Career Recommendations                           |
+| - Software Developer                             |
+| - Data Analyst                                   |
+| - Cybersecurity Analyst                          |
++--------------------------------------------------+
+| Education Guidance                               |
+| - Recommended Courses                            |
+| - Certifications                                 |
++--------------------------------------------------+
+| Skill Development                                |
+| - Programming                                    |
+| - Communication                                  |
+| - Problem Solving                                |
++--------------------------------------------------+
+
+---
+
+## OUTPUT
+
+Dashboard Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
