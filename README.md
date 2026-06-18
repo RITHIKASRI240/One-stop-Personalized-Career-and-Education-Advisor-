@@ -364,3 +364,24 @@ The Learning Resources Module was developed to provide users with access to educ
 
 ---
 
+## BACKEND INTEGRATION
+
+The backend components were integrated with the frontend modules to enable data processing, user authentication, career recommendations, educational guidance, skill assessment, and learning resource management. The integration ensures smooth communication between the user interface and the database.
+
+---
+
+## BACKEND FUNCTIONALITIES
+
++--------------------------------------------------+
+|               BACKEND INTEGRATION                |
++--------------------------------------------------+
+| User Authentication                              |
+| Career Recommendation Processing                 |
+| Education Guidance Processing                    |
+| Skill Assessment Processing                      |
+| Learning Resources Management                    |
+| Database Connectivity                            |
++--------------------------------------------------+
+
+---
+
