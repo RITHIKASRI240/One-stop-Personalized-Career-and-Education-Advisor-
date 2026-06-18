@@ -140,3 +140,52 @@ CREATE TABLE learning_resources (
     FOREIGN KEY (skill_id) REFERENCES skills(skill_id)
 );
 ```
+## UI WIREFRAME DESIGN
+
+The UI Wireframe Design defines the structure and layout of the application screens. It helps visualize how users will interact with the system.
+
+---
+
+## LOGIN PAGE WIREFRAME
+
+The Login Page Wireframe represents the user authentication screen. It includes fields for email and password along with a login button and registration option for new users.
+
++----------------------------------+
+|            LOGIN PAGE            |
++----------------------------------+
+| Email:    [______________]       |
+| Password: [______________]       |
+|                                  |
+|         [ Login ]                |
+|                                  |
+|   New User? Register Here        |
++----------------------------------+
+
+---
+
+## DASHBOARD PAGE WIREFRAME
+
+The Dashboard Page Wireframe shows the main user interface after login. It displays career recommendations, education guidance, and skill development options in a structured layout.
+
++--------------------------------------------------+
+|                   DASHBOARD                      |
++--------------------------------------------------+
+| Welcome, User!                                   |
++--------------------------------------------------+
+| Career Recommendations                           |
+| - Software Developer                             |
+| - Data Analyst                                   |
+| - Cybersecurity Analyst                          |
++--------------------------------------------------+
+| Education Guidance                               |
+| - Courses & Certifications                       |
++--------------------------------------------------+
+| Skill Development                                |
+| - Programming, Communication, Problem Solving    |
++--------------------------------------------------+
+
+---
+
+## OUTPUT
+
+The UI wireframes for Login Page and Dashboard Page were successfully designed and prepared for implementation.
