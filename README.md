@@ -96,3 +96,9 @@ CREATE TABLE education (
     career_id INT,
     FOREIGN KEY (career_id) REFERENCES careers(career_id)
 );
+CREATE TABLE skills (
+    skill_id INT PRIMARY KEY,
+    skill_name VARCHAR(100),
+    career_id INT,
+    FOREIGN KEY (career_id) REFERENCES careers(career_id)
+);
