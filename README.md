@@ -19,3 +19,13 @@
 🔸 Help students make informed academic and professional decisions.
 
 🔸 Create a centralized platform for career and education planning.
+## REQUIREMENT GATHERING
+
+🔸 Gathered and analyzed the functional and non-functional requirements of the system.
+
+🔸 Identified the needs of students seeking career guidance and educational recommendations.
+
+🔸 Collected information about career paths, educational opportunities, skill development resources, and user preferences.
+
+🔸 Defined the core features required for personalized career and education recommendations.
+
