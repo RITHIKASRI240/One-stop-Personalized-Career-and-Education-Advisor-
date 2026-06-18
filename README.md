@@ -30,3 +30,30 @@
 🔸 Help students make informed academic and professional decisions.
 
 🔸 Create a centralized platform for career and education planning.
+## USER AND MODULE IDENTIFICATION
+
+🔸 Identified the primary users of the system, including students and administrators.
+
+🔸 Analyzed user requirements and system interactions.
+
+🔸 Defined the major modules required for the application.
+
+🔸 Structured the system architecture to ensure smooth communication between modules.
+
+## MODULE LIST
+
+🔸 User Registration and Login Module
+
+🔸 Career Recommendation Module
+
+🔸 Education Guidance Module
+
+🔸 Skill Development Module
+
+🔸 Learning Resources Module
+
+🔸 User Profile Management Module
+
+🔸 Dashboard Module
+
+🔸 Admin Management Module
