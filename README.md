@@ -140,13 +140,3 @@ CREATE TABLE learning_resources (
     FOREIGN KEY (skill_id) REFERENCES skills(skill_id)
 );
 ```
-+----------------------------------+
-|            LOGIN PAGE            |
-+----------------------------------+
-| Email:    [______________]       |
-| Password: [______________]       |
-|                                  |
-|         [ Login ]                |
-|                                  |
-|   New User? Register Here        |
-+----------------------------------+
