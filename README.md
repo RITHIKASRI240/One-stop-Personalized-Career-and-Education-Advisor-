@@ -84,15 +84,3 @@ CREATE TABLE users (
     password VARCHAR(255),
     career_interest VARCHAR(100)
 );
-## Career Table
-
-```sql
--- Career Table
--- Stores career information and descriptions
-
-CREATE TABLE careers (
-    career_id INT PRIMARY KEY,
-    career_name VARCHAR(100),
-    description TEXT
-);
-```
