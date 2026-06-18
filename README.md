@@ -189,3 +189,10 @@ The Dashboard Page Wireframe shows the main user interface after login. It displ
 ## OUTPUT
 
 The UI wireframes for Login Page and Dashboard Page were successfully designed and prepared for implementation.
+## LOGIN PAGE DEVELOPMENT
+
+The Login Page was developed using HTML and CSS. The page includes email and password input fields, a login button, and a registration link for new users. The interface is designed to provide a simple and user-friendly authentication experience.
+
+## OUTPUT
+
+Login Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
