@@ -196,3 +196,29 @@ The Login Page was developed using HTML and CSS. The page includes email and pas
 ## OUTPUT
 
 Login Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
+## REGISTRATION PAGE DEVELOPMENT
+
+The Registration Page was developed using HTML and CSS to allow new users to create an account. The page includes fields for user details such as name, email, password, and career interests. The design ensures a simple and user-friendly registration process.
+
+---
+
+## REGISTRATION PAGE WIREFRAME
+
++----------------------------------+
+|        REGISTRATION PAGE         |
++----------------------------------+
+| Name:     [______________]       |
+| Email:    [______________]       |
+| Password: [______________]       |
+| Interest: [______________]       |
+|                                  |
+|       [ Register ]               |
+|                                  |
+| Already a User? Login Here       |
++----------------------------------+
+
+---
+
+## OUTPUT
+
+Registration Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
