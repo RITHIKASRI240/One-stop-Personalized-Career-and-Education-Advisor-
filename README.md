@@ -308,4 +308,32 @@ The Education Guidance Module was developed to provide users with suitable educa
 +--------------------------------------------------+
 
 ---
+## SKILL ASSESSMENT MODULE DEVELOPMENT
+
+The Skill Assessment Module was developed to evaluate users' skills and identify their strengths and areas for improvement. The module helps users understand their current skill levels and provides recommendations for skill development based on their career goals.
+
+---
+
+## SKILL ASSESSMENT MODULE
+
++--------------------------------------------------+
+|             SKILL ASSESSMENT MODULE              |
++--------------------------------------------------+
+| User Skills                                      |
+| - Programming                                    |
+| - Communication                                  |
+| - Problem Solving                                |
++--------------------------------------------------+
+| Skill Analysis                                   |
+| - Technical Skills : Intermediate                |
+| - Communication Skills : Good                    |
+| - Analytical Skills : Excellent                  |
++--------------------------------------------------+
+| Recommendations                                  |
+| - Learn Advanced Java                            |
+| - Improve Public Speaking                        |
+| - Practice Coding Challenges                     |
++--------------------------------------------------+
+
+---
 
