@@ -218,7 +218,6 @@ The Registration Page was developed using HTML and CSS to allow new users to cre
 +----------------------------------+
 
 ---
+# OUTPUT
 
-## OUTPUT
-
-Registration Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
+Dashboard Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
