@@ -254,3 +254,29 @@ The Dashboard Page was developed to provide users with a centralized view of car
 ## OUTPUT
 
 Dashboard Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
+## CAREER RECOMMENDATION MODULE DEVELOPMENT
+
+The Career Recommendation Module was developed to provide personalized career suggestions based on user interests, skills, qualifications, and career goals. The module analyzes user inputs and recommends suitable career paths to help users make informed decisions.
+
+---
+
+## CAREER RECOMMENDATION MODULE
+
++--------------------------------------------------+
+|          CAREER RECOMMENDATION MODULE            |
++--------------------------------------------------+
+| User Interest: Technology                        |
+| Skills: Programming, Problem Solving             |
+| Qualification: Undergraduate                     |
++--------------------------------------------------+
+| Recommended Careers                              |
+| - Software Developer                             |
+| - Data Analyst                                   |
+| - Cybersecurity Analyst                          |
++--------------------------------------------------+
+
+---
+
+## OUTPUT
+
+Career Recommendation Module successfully developed for the One-Stop Personalized Career and Education Advisor system.
