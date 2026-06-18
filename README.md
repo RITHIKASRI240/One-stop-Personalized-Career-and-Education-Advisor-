@@ -89,3 +89,10 @@ CREATE TABLE careers (
     career_name VARCHAR(100),
     description TEXT
 );
+CREATE TABLE education (
+    education_id INT PRIMARY KEY,
+    course_name VARCHAR(100),
+    institution_name VARCHAR(100),
+    career_id INT,
+    FOREIGN KEY (career_id) REFERENCES careers(career_id)
+);
