@@ -336,4 +336,31 @@ The Skill Assessment Module was developed to evaluate users' skills and identify
 +--------------------------------------------------+
 
 ---
+## LEARNING RESOURCES MODULE DEVELOPMENT
+
+The Learning Resources Module was developed to provide users with access to educational materials, online courses, certifications, tutorials, and reference resources. The module helps users enhance their knowledge and skills based on their career interests and learning objectives.
+
+---
+
+## LEARNING RESOURCES MODULE
+
++--------------------------------------------------+
+|            LEARNING RESOURCES MODULE             |
++--------------------------------------------------+
+| Recommended Courses                              |
+| - Java Programming                               |
+| - Web Development                                |
+| - Data Structures and Algorithms                 |
++--------------------------------------------------+
+| Certifications                                   |
+| - Oracle Java Certification                      |
+| - Google Data Analytics                          |
++--------------------------------------------------+
+| Learning Materials                               |
+| - Video Tutorials                                |
+| - E-Books                                        |
+| - Technical Documentation                        |
++--------------------------------------------------+
+
+---
 
