@@ -72,3 +72,15 @@
 ## ER Diagram
 
 ![ER Diagram](file_00000000725072088862bd3e4bb61521.png)
+# SQL SCHEMA
+
+## User Table
+
+```sql
+CREATE TABLE users (
+    user_id INT PRIMARY KEY,
+    full_name VARCHAR(100),
+    email VARCHAR(100),
+    password VARCHAR(255),
+    career_interest VARCHAR(100)
+);
