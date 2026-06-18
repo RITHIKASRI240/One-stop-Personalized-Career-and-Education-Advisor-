@@ -84,29 +84,4 @@ CREATE TABLE users (
     password VARCHAR(255),
     career_interest VARCHAR(100)
 );
-## Career Table
-CREATE TABLE careers (
-    career_id INT PRIMARY KEY,
-    career_name VARCHAR(100),
-    description TEXT
-);
-CREATE TABLE education (
-    education_id INT PRIMARY KEY,
-    course_name VARCHAR(100),
-    institution_name VARCHAR(100),
-    career_id INT,
-    FOREIGN KEY (career_id) REFERENCES careers(career_id)
-);
-CREATE TABLE skills (
-    skill_id INT PRIMARY KEY,
-    skill_name VARCHAR(100),
-    career_id INT,
-    FOREIGN KEY (career_id) REFERENCES careers(career_id)
-);
-CREATE TABLE learning_resources (
-    resource_id INT PRIMARY KEY,
-    resource_name VARCHAR(100),
-    resource_type VARCHAR(50),
-    skill_id INT,
-    FOREIGN KEY (skill_id) REFERENCES skills(skill_id)
-);
+
