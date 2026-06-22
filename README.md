@@ -243,4 +243,6 @@ The Dashboard Page was developed to provide users with a centralized view of car
 
 ---
 
+## NAVIGATION & FORM DESIGN
 
+The Navigation and Form Design module was created to provide seamless interaction within the One-Stop Personalized Career and Education Advisor system. User-friendly navigation menus and responsive forms were designed to facilitate smooth access to different modules and efficient data collection.
