@@ -184,18 +184,12 @@ The Dashboard Page Wireframe shows the main user interface after login. It displ
 | - Programming, Communication, Problem Solving    |
 +--------------------------------------------------+
 
----
-
-## OUTPUT
-
-The UI wireframes for Login Page and Dashboard Page were successfully designed and prepared for implementation.
+--
 ## LOGIN PAGE DEVELOPMENT
 
 The Login Page was developed using HTML and CSS. The page includes email and password input fields, a login button, and a registration link for new users. The interface is designed to provide a simple and user-friendly authentication experience.
 
-## OUTPUT
 
-Login Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
 ## REGISTRATION PAGE DEVELOPMENT
 
 The Registration Page was developed using HTML and CSS to allow new users to create an account. The page includes fields for user details such as name, email, password, and career interests. The design ensures a simple and user-friendly registration process.
@@ -218,9 +212,7 @@ The Registration Page was developed using HTML and CSS to allow new users to cre
 +----------------------------------+
 
 ---
-# OUTPUT
 
-Dashboard Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
 ## DASHBOARD DEVELOPMENT
 
 The Dashboard Page was developed to provide users with a centralized view of career recommendations, educational guidance, skill development suggestions, and learning resources. The dashboard is designed to enhance user experience through easy navigation and organized information display.
@@ -251,9 +243,7 @@ The Dashboard Page was developed to provide users with a centralized view of car
 
 ---
 
-## OUTPUT
 
-Dashboard Page successfully developed for the One-Stop Personalized Career and Education Advisor system.
 ## CAREER RECOMMENDATION MODULE DEVELOPMENT
 
 The Career Recommendation Module was developed to provide personalized career suggestions based on user interests, skills, qualifications, and career goals. The module analyzes user inputs and recommends suitable career paths to help users make informed decisions.
@@ -277,9 +267,7 @@ The Career Recommendation Module was developed to provide personalized career su
 
 ---
 
-## OUTPUT
 
-Career Recommendation Module successfully developed for the One-Stop Personalized Career and Education Advisor system.
 ## EDUCATION GUIDANCE MODULE DEVELOPMENT
 
 The Education Guidance Module was developed to provide users with suitable educational pathways, courses, certifications, and learning opportunities based on their career interests and goals. The module helps users identify the educational requirements needed to achieve their desired career objectives.
