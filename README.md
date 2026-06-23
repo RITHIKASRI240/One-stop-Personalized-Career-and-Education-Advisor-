@@ -261,3 +261,6 @@ The Registration Module was developed to allow new users to create an account ea
 # DASHBOARD UI
 
 The Dashboard UI was designed to provide easy access to all features of the system. It displays user profile information, career recommendations, educational suggestions, and navigation options in a simple and user-friendly interface.
+# CRUD FORM DEVELOPMENT
+
+The CRUD forms were developed successfully to perform Create, Read, Update, and Delete operations. Users can add new information, view existing records, update details, and delete unnecessary data through a simple and user-friendly interface.
