@@ -276,3 +276,6 @@ The backend environment was set up successfully. The required server configurati
 # DATABASE CONNECTIVITY
 
 The database connectivity was established successfully. The application was connected to the database, enabling the storage and retrieval of user information efficiently. The connection was tested and verified for smooth operation.
+# ENTITY CLASSES
+
+The entity classes were created to represent the main components of the system, including User, Student Profile, Career Recommendation, and Education Details. These classes help in organizing and managing data efficiently within the application.
