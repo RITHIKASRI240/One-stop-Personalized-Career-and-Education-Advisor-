@@ -258,3 +258,6 @@ The Login Module was developed to provide secure access to the system. Users can
 # REGISTRATION MODULE
 
 The Registration Module was developed to allow new users to create an account easily. Users can enter their personal details, educational information, and login credentials. The module stores the user information securely for future access.
+# DASHBOARD UI
+
+The Dashboard UI was designed to provide easy access to all features of the system. It displays user profile information, career recommendations, educational suggestions, and navigation options in a simple and user-friendly interface.
