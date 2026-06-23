@@ -255,3 +255,6 @@ The frontend development environment was set up successfully. The project struct
 # LOGIN MODULE
 
 The Login Module was developed to provide secure access to the system. Users can log in using their username and password. The module verifies user credentials and allows authorized users to access the dashboard and other features.
+# REGISTRATION MODULE
+
+The Registration Module was developed to allow new users to create an account easily. Users can enter their personal details, educational information, and login credentials. The module stores the user information securely for future access.
