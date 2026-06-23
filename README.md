@@ -264,3 +264,6 @@ The Dashboard UI was designed to provide easy access to all features of the syst
 # CRUD FORM DEVELOPMENT
 
 The CRUD forms were developed successfully to perform Create, Read, Update, and Delete operations. Users can add new information, view existing records, update details, and delete unnecessary data through a simple and user-friendly interface.
+# DATA LISTING
+
+The Data Listing module was developed to display user information and recommendations in an organized format. The data can be viewed easily, making the system simple and user-friendly.
