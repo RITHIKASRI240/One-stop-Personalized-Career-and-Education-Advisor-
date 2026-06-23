@@ -252,3 +252,6 @@ The design of the One Stop Personalized Career and Education Advisor was reviewe
 # FRONTEND ENVIRONMENT SET UP
 
 The frontend development environment was set up successfully. The project structure was created, and the required tools and dependencies were configured. The environment is now ready for designing and developing the user interface.
+# LOGIN MODULE
+
+The Login Module was developed to provide secure access to the system. Users can log in using their username and password. The module verifies user credentials and allows authorized users to access the dashboard and other features.
